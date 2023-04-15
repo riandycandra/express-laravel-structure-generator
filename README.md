@@ -7,4 +7,4 @@
 
 ## Usage
 
-	else <folder-name>
+	elsg <folder-name>
