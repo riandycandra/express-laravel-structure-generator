@@ -1,0 +1,18 @@
+{
+  "name": "elsg",
+  "version": "1.0.0",
+  "description": "ELSG stands for Express-Laravel Structure Generator, used for generate folder structure like laravel for Express",
+  "main": "./lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "elsg": "./bin/index.js"
+  },
+  "preferGlobal": true,
+  "author": "",
+  "license": "ISC"
+}
