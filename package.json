@@ -14,5 +14,8 @@
   },
   "preferGlobal": true,
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "path": "^0.12.7"
+  }
 }
