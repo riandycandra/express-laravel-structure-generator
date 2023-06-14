@@ -13,7 +13,7 @@
     "elsg": "./bin/index.js"
   },
   "preferGlobal": true,
-  "author": "",
+  "author": "Riandy Candra Winahyu",
   "license": "ISC",
   "dependencies": {
     "path": "^0.12.7"
