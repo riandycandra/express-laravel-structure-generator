@@ -1,6 +1,6 @@
 {
   "name": "elsg",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "ELSG stands for Express-Laravel Structure Generator, used for generate folder structure like laravel for Express",
   "main": "./lib/index.js",
   "directories": {
